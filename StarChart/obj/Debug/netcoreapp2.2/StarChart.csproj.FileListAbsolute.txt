@@ -1,0 +1,15 @@
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\bin\Debug\netcoreapp2.2\StarChart.deps.json
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\bin\Debug\netcoreapp2.2\StarChart.runtimeconfig.json
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\bin\Debug\netcoreapp2.2\StarChart.runtimeconfig.dev.json
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\bin\Debug\netcoreapp2.2\StarChart.dll
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\bin\Debug\netcoreapp2.2\StarChart.pdb
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.csprojAssemblyReference.cache
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.AssemblyInfoInputs.cache
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.AssemblyInfo.cs
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.RazorAssemblyInfo.cache
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.RazorAssemblyInfo.cs
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.RazorTargetAssemblyInfo.cache
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.dll
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.pdb
+C:\Users\Ильяс\Dropbox\Мой ПК (DESKTOP-F205LAT)\Downloads\StarChart-main\StarChart\obj\Debug\netcoreapp2.2\StarChart.genruntimeconfig.cache
